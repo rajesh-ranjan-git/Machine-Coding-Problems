@@ -13,4 +13,4 @@ const debounce = (callback, delay) => {
     }, delay);
   };
 };
-input.addEventListener("keyup", debounce(inputHandler, 500));
+input.addEventListener("keyup", debounce(inputHandler, 1000));
