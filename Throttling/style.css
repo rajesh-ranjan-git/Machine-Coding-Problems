@@ -1,0 +1,5 @@
+.container {
+  height: 500px;
+  word-wrap: break-word;
+  overflow: scroll;
+}
